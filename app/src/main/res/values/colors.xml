@@ -1,0 +1,10 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="eco_green_primary">#2E7D32</color>
+    <color name="eco_green_light">#60AD5E</color>
+    <color name="eco_green_dark">#005005</color>
+    <color name="eco_brown">#795548</color>
+    <color name="eco_background">#DCEDC8</color>
+    <color name="error_red">#D32F2F</color>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌱Green Initiatives at EcoStay Retreat"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/eco_green_dark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:text="EcoStay Retreat is committed to protecting the environment through sustainable
+             practices and responsible tourism. The resort uses renewable energy sources, water conservation systems, and eco-friendly building materials to reduce its environmental impact. Guests are encouraged to participate in recycling programs and support green initiatives during their stay. These efforts help preserve the natural beauty of the surrounding mountain ecosystem for future generations"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="🌲 Exploring Local Nature Reserves"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/eco_green_dark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:text="The area surrounding EcoStay Retreat is home to several breathtaking nature reserves rich in biodiversity. Visitors can discover scenic hiking trails, native wildlife, and stunning landscapes while learning about conservation efforts. Guided eco-tours provide valuable insights into the local ecosystem and its importance. Exploring these reserves offers a unique opportunity to connect with nature and appreciate its beauty"
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="♻️Sustainable Living Tips for Travelers"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/eco_green_dark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:text="Travelers can make a positive impact on the environment by adopting simple sustainable habits
+             during their journeys. Using reusable water bottles, reducing waste, and choosing eco-friendly transportation are excellent ways to travel responsibly. Supporting local businesses and respecting natural habitats also contribute to sustainable tourism. Small actions can collectively make a significant difference in protecting the planet"
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="🐦 Wildlife and Birdwatching Adventures"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/eco_green_dark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:text=" The mountain region around EcoStay Retreat is home to a variety of fascinating
+            wildlife species and colorful birds. Guests can join birdwatching sessions to observe native and migratory birds in their natural habitats. These experiences provide an educational and enjoyable way to learn about local biodiversity. Respecting wildlife and maintaining a safe distance helps preserve these valuable ecosystems."
+            android:textSize="16sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="🌍 The Importance of Eco-Tourism"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/eco_green_dark" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/black"
+            android:text="Eco-tourism promotes responsible travel that benefits both local communities and the environment. By choosing sustainable destinations and activities, travelers can help support conservation efforts
+            while enjoying authentic experiences. Eco-tourism encourages environmental awareness and cultural appreciation among visitors. It plays a vital role in protecting natural resources and ensuring that future generations can enjoy them as well"
+            android:textSize="16sp" />
+
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
